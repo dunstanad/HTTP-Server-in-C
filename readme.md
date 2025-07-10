@@ -90,13 +90,16 @@ http://localhost:8080/frameworks.png
 ```
 ---
 ## 💻 Screenshots
-###Client Output
-![Client Output1](screenshots/client_op1.png)
-![Client Output2](screenshots/client_op2.png)
-![Client Output3](screenshots/client_op3.png)
-![Client Output4](screenshots/client_op4.png)
-###Server Output
-![Server Output1](server_op1.png)
+
+### 🖥️ Client Output
+
+| ![Client Output 1](screenshots/client_op1.png) | ![Client Output 2](screenshots/client_op2.png) |
+| --------------------------------------------- | --------------------------------------------- |
+| ![Client Output 3](screenshots/client_op3.png) | ![Client Output 4](screenshots/client_op4.png) |
+
+### 🗄️ Server Output
+
+![Server Output](screenshots/server_op1.png)
 
 ---
 
